@@ -1,0 +1,4 @@
+[submodule "hrx"]
+	path = hrx
+	url = https://github.com/xiaoyaofengjianshi/Diansai2027.git
+	branch = week2
