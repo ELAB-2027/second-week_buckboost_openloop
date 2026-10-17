@@ -2,3 +2,6 @@
 	path = hrx
 	url = https://github.com/xiaoyaofengjianshi/Diansai2027.git
 	branch = week2
+[submodule "kh"]
+	path = kh
+	url = https://github.com/knhuui2-kh/buck_boost_openloop
