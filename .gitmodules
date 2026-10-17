@@ -5,3 +5,6 @@
 [submodule "kh"]
 	path = kh
 	url = https://github.com/knhuui2-kh/buck_boost_openloop
+[submodule "jlh"]
+	path = jlh
+	url = https://github.com/Gold-RsC/buck-boost20261003.git
